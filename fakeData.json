@@ -1,0 +1,51 @@
+[
+  {
+      "userId": 1,
+      "date": "2022-01-23T00:41:53.998Z",
+      "mood": 5,
+      "tookKetamine": false,
+      "journal": "I felt okay today. The sky is blue and birds are singing. Nothing special"
+  },
+  {
+      "userId": 1,
+      "date": "2022-01-24T00:41:53.998Z",
+      "mood": 10,
+      "tookKetamine": true,
+      "journal": "I felt okay today. The sky is blue and birds are singing. Nothing special"
+  },
+  {
+      "userId": 1,
+      "date": "2022-01-25T00:41:53.998Z",
+      "mood": 3,
+      "tookKetamine": false,
+      "journal": "I felt okay today. The sky is blue and birds are singing. Nothing special"
+  },
+  {
+      "userId": 1,
+      "date": "2022-01-26T00:41:53.998Z",
+      "mood": 1,
+      "tookKetamine": false,
+      "journal": "I felt okay today. The sky is blue and birds are singing. Nothing special"
+  },
+  {
+      "userId": 1,
+      "date": "2022-01-27T00:41:53.998Z",
+      "mood": 2,
+      "tookKetamine": false,
+      "journal": "I felt okay today. The sky is blue and birds are singing. Nothing special"
+  },
+  {
+      "userId": 1,
+      "date": "2022-01-28T00:41:53.998Z",
+      "mood": 4,
+      "tookKetamine": false,
+      "journal": "I felt okay today. The sky is blue and birds are singing. Nothing special"
+  },
+  {
+      "userId": 1,
+      "date": "2022-01-29T00:41:53.998Z",
+      "mood": 3,
+      "tookKetamine": false,
+      "journal": "I felt okay today. The sky is blue and birds are singing. Nothing special"
+  }
+]
